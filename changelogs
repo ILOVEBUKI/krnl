@@ -7,3 +7,14 @@
 [=] Updated for the latest Roblox version
 [+] Fixed some bugs with decompiling
 [+] Fixed some bugs with getconnections
+
+[=] Updated for the latest Roblox version
+[+] Fixed some misc. bugs
+[+] You should be able to inject into multiple processes without the "Krnl is already injected" message anymore
+Note from IceBear: As you all know Krnl currently has 4 checkpoints to get the key; however, we do not enable the extension option on Linkvertise.
+
+I have been thinking of changing this to 2 checkpoints but enabling extension on the links.
+
+We will most likely give it a test run sometime soon.
+
+To clarify: the extension option on linkvertise makes you add a trusted linkvertise extension to your browser, this can be removed after completing the linkvertise. 
