@@ -1,3 +1,3 @@
-All krnl changelogs belonges here, not all of them but most
+All krnl downloads belonges here, including KRNL WRD and KRNL-BETA
 
-Join krnl discord server at krnl.ca/invite
+It's not a virus you can decompile krnlss.exe or krnlUI.exe if you have krnl beta.
